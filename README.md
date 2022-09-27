@@ -21,6 +21,12 @@ On the other side, borrowers can acquire leverage on Goo or Gobblers. (goo, goo)
 - Iron out bugs and get testing done
 - Initialize contracts when ArtGobblers hits mainnet
 
+## Get Started
+```
+npm install --legacy-peer-deps
+npx hardhat run scripts/deploy.js
+```
+
 Code has not been tested nor deployed. 
 
 
